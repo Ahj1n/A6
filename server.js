@@ -8,7 +8,7 @@
 * 
 *  Name: Franz Balite Student ID: 142546209 Date: 2024-04-11
 *
-*  Published URL: 
+*  Published URL: https://legosetsproject.cyclic.app
 *
 ********************************************************************************/
 const legoData = require("./modules/legoSets");
