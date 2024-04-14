@@ -8,7 +8,7 @@
 * 
 *  Name: Franz Balite Student ID: 142546209 Date: 2024-04-11
 *
-*  Published URL: https://troubled-red-vestments.cyclic.app
+*  Published URL: 
 *
 ********************************************************************************/
 const legoData = require("./modules/legoSets");
@@ -21,7 +21,7 @@ const authData = require('./modules/auth-service.js');
 const clientSessions = require('client-sessions');
 
 
-const HTTP_PORT = process.env.PORT || 8080;
+const HTTP_PORT = process.env.PORT || 3000;
 
 // MiddleWare
 

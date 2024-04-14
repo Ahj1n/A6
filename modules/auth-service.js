@@ -1,3 +1,17 @@
+/********************************************************************************
+*  WEB322 – Assignment 06
+* 
+*  I declare that this assignment is my own work in accordance with Seneca's
+*  Academic Integrity Policy:
+* 
+*  https://www.senecacollege.ca/about/policies/academic-integrity-policy.html
+* 
+*  Name: Franz Balite Student ID: 142546209 Date: 2024-04-11
+*
+*  Published URL: 
+*
+********************************************************************************/
+
 const mongoose = require('mongoose');
 const bcrypt = require('bcryptjs');
 
